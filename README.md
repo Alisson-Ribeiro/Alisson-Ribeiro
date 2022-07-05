@@ -12,6 +12,8 @@
   <img align="center" alt="Alisson-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alisson-PHP" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Alisson-MYSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Alisson-LARAVEL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/laravel-original.svg">
+  <img align="center" alt="Alisson-BOOTSTRAP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/bootstrap-original.svg">
 </div>
   
   ###
