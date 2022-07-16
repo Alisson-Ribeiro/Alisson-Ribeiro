@@ -1,6 +1,5 @@
 ### Hi there, my name is Alisson! 👋
 
-✔ I’m currently working / studying web development / front-end
 
 <div>
   <a href="https://github.com/Alisson-Ribeiro">
