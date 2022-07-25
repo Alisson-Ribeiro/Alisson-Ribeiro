@@ -25,3 +25,6 @@ Olá, seja bem vindo ao meu GitHub!
 </div>
 <br>
 <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/alisson-ribeiro/count.svg" /></p>
+
+
+<p align="center"> <img alingn="center" height="150px" src="https://media.tenor.com/images/d119fdcd896d3ae1e18cd9b7f579e083/tenor.gif" /></p>
