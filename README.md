@@ -27,4 +27,5 @@ Olá, seja bem vindo ao meu GitHub!
 <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/alisson-ribeiro/count.svg" /></p>
 
 
-<p align="center"> <img alingn="center" height="150px" src="https://media.tenor.com/images/d119fdcd896d3ae1e18cd9b7f579e083/tenor.gif" /></p>
+<p align="center"> <img alingn="center" height="150px" src="https://static.wikia.nocookie.net/tibia/images/e/ef/Black_Knight.gif/revision/latest/top-crop/width/360/height/360?cb=20180206145413&path-prefix=en" /></p>
+<!--https://static.wikia.nocookie.net/tibia/images/e/ef/Black_Knight.gif/revision/latest/top-crop/width/360/height/360?cb=20180206145413&path-prefix=en
