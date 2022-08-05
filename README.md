@@ -1,4 +1,4 @@
-<h1>Olá, seja bem vindo ao meu GitHub!</h1>
+<h1>hi there, welcome to my GitHub! 😎 </h1>
 
 - 📖 Cursando Análise e Desenvolvimento de Sistemas.
 
