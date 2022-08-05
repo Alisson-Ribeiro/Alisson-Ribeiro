@@ -1,7 +1,5 @@
 <h1>Olá, seja bem vindo ao meu GitHub!</h1>
 
-- 📚 Estudando Laravel e Bootstrap.
-- 👨‍🎓 Graduado em Administração Pública pela UFF.
 - 📖 Cursando Análise e Desenvolvimento de Sistemas.
 
 <div>
@@ -16,6 +14,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Alisson-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alisson-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Alisson-JAVASCRIPT" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Alisson-REACT" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Alisson-PHP" height="50" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Alisson-MYSQL" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Alisson-GIT" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
