@@ -1,6 +1,5 @@
 <h1>hi there, welcome to my GitHub! 😎 </h1>
-
-- 📖 Cursando Análise e Desenvolvimento de Sistemas.
+<br>
 
 <div>
   <a href="https://github.com/alisson-ribeiro">
