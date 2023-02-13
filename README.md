@@ -1,7 +1,7 @@
 <h1>hi there, welcome to my GitHub! 😎 </h1>
 <br>
 
-<p>Analista de Sistemas , estudando e praticando o desenvolvimento backend no ecossistema Spring com Java, aplicando diversos conceitos no desenvolvimento de aplicações web e desktop. Estou buscando a primeira oportunidade na área de desenvolvimento visando aplicar meus conhecimentos no desenvolvimento de software, aprimorando minhas noções de desenvolvimento e trabalho em equipe.</p>
+<p>Desenvolvedor Back-end , estudando e praticando o desenvolvimento no ecossistema Spring com Java, aplicando diversos conceitos no desenvolvimento de aplicações web e desktop.</p>
 
 <p>Estudando desenvolvimento Back-End com JAVA: OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB, Microsserviços Java com Spring Boot e Spring Cloud.</p>
 
