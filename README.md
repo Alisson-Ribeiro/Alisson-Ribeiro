@@ -1,34 +1,17 @@
-<h1>hi there, welcome to my GitHub! 😎 </h1>
-<br>
+## Hi there, welcome to my Github profile, my name is Alisson Ribeiro!
 
-<p>Desenvolvedor Back-end , estudando e praticando o desenvolvimento no ecossistema Spring com Java, aplicando diversos conceitos no desenvolvimento de aplicações web e desktop.</p>
 
-<p>Estudando desenvolvimento Back-End com JAVA: OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB, Microsserviços Java com Spring Boot e Spring Cloud.</p>
+### I'm a Back-end developer!
 
-<div>
-  <a href="https://github.com/alisson-ribeiro">
-  
-  <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api?username=alisson-ribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-  <img height="150em"  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-ribeiro&layout=compact&langs_count=6&theme=dark"/>
-  
-</div>
+### Technologies
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Alisson-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alisson-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alisson-JAVASCRIPT" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Alisson-NODEJS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Alisson-JAVA" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Alisson-PHP" height="50" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Alisson-MYSQL" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Alisson-GIT" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
-  
-<br>
-  
-<div>
-  <a href="https://www.linkedin.com/in/alisson-ribeiro-69680653/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-<br>
-<p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/alisson-ribeiro/count.svg" /></p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="50" width="50" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="50" width="50" /><img           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />    <img           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
+
+
+### I am learning
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="50" height="50" />
+
+### Contacts
+
+  <a href="https://www.linkedin.com/in/alisson-ribeiro-69680653/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="110" target="_blank"></a>
