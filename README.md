@@ -1,7 +1,6 @@
-## Hi there, welcome to my Github profile, my name is Alisson Ribeiro!
+## Hi there, welcome to my Github profile!
 
-
-### I'm a Back-end developer!
+### My name is Alisson Ribeiro and I'm a Back-end developer!
 
 ### Technologies
 
